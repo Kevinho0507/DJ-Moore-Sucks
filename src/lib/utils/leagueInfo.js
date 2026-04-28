@@ -7,12 +7,17 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome, managers, to sacred and cursed ground.</p>
+  <p>You have not arrived here by accident. You are here because of pain.</p>
+  <p>Because of hope that turned to ash. Because of "this is the year" that somehow became week 15, WR38, and a first round exit.</p>
+  <p>This league was forged in the fires of broken projections, Sunday afternoon despair, and the soft glow of RedZone mocking you while your so-called "cornerstone asset" put up 4.6 points on 9 targets.</p>
+  <p>DJ Moore Sucks is not just a league name, it is a statement. A coping mechanism. A memorial to dynasty wounds that never heal.</p>
+  <p>Here we remember the elite prospect tha was about to ascend, the buy-low candidate that became a hold forever, the trade you defended in the group chat...and still think about at night.</p>
+  <p>In this league, grudges are permanent. Receipts are eternal. You may win championships but you will never forget who hurt you along the way.</p>
+  <p>Draft with confidence, trade with bitterness, start your lineup with reckless optimism.</p>
+  <p>And when a player betrays you - when a "safe floor WR2" posts a single digit-dud in the playoffs - just know:.</p>
+  <p>They may someday earn a league name of their own</p>
+  <p>Welcome to DJ Moore Sucks</p>
 `;
 
 /*   STEP 3   */
