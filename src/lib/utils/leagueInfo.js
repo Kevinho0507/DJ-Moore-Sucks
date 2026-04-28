@@ -36,7 +36,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Nate", // Can be anything (usually your rival's name)
         link: null,
@@ -50,7 +50,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Cameron", // Can be anything (usually your rival's name)
         link: null,
@@ -64,7 +64,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Seth", // Can be anything (usually your rival's name)
         link: null,
@@ -78,7 +78,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Lucas", // Can be anything (usually your rival's name)
         link: null,
@@ -92,7 +92,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Elliot", // Can be anything (usually your rival's name)
         link: null,
@@ -106,7 +106,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "pit", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Lucas", // Can be anything (usually your rival's name)
         link: null,
@@ -120,7 +120,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Tyler", // Can be anything (usually your rival's name)
         link: null,
@@ -134,7 +134,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Kevin", // Can be anything (usually your rival's name)
         link: null,
@@ -148,7 +148,7 @@ export const managers = [
       "tookOver": 2021, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Ethan", // Can be anything (usually your rival's name)
         link: null,
@@ -162,7 +162,7 @@ export const managers = [
       "tookOver": 2024, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "favoriteTeam": "min", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-      "photo": "/managers/everyone.jpg"
+      "photo": "/managers/everyone.png"
       "rival": {
         name: "Seth", // Can be anything (usually your rival's name)
         link: null,
