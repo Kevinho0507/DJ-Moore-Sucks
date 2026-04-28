@@ -27,8 +27,8 @@ import { dynasty } from './utils/helper';
             dynastyOnly: true,
         },
         {
-            name: "DynastyProcess Trade Calculator",
-            url: "https://apps.dynastyprocess.com/calculator/",
+            name: "Keep Trade Cut Dynasty Trade Calculate",
+            url: "https://keeptradecut.com/trade-calculator",
             icon: "calculate",
             premium: false,
             separator: true,
@@ -59,14 +59,6 @@ import { dynasty } from './utils/helper';
             redraftOnly: true,
         },
         {
-            name: "Dynasty 101 Trade Calculator",
-            url: "https://dynasty101.com/trade-calculator/",
-            icon: "calculate",
-            premium: false,
-            separator: true,
-            dynastyOnly: true,
-        },
-        {
             name: "Dynasty Nerds GM",
             url: "https://gm.dynastynerds.com/",
             icon: "insights",
@@ -81,13 +73,6 @@ import { dynasty } from './utils/helper';
             premium: false,
             separator: true,
             redraftOnly: true,
-        },
-        {
-            name: "Reddit FF Trade Analyzer",
-            url: "https://www.reddit.com/r/TradeAnalyzerFF/",
-            icon: "assessment",
-            premium: false,
-            separator: true,
         },
         {
             name: "FantasyCalc Trade Calculator",
