@@ -39,7 +39,7 @@ export const managers = [
       "rival": {
         name: "Nate", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -52,7 +52,7 @@ export const managers = [
       "rival": {
         name: "Cameron", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -65,7 +65,7 @@ export const managers = [
       "rival": {
         name: "Seth", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -78,7 +78,7 @@ export const managers = [
       "rival": {
         name: "Lucas", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -91,7 +91,7 @@ export const managers = [
       "rival": {
         name: "Elliot", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Carrier Pigeon",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -104,7 +104,7 @@ export const managers = [
       "rival": {
         name: "Lucas", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Carrier Pigeon",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -117,7 +117,7 @@ export const managers = [
       "rival": {
         name: "Tyler", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -130,7 +130,7 @@ export const managers = [
       "rival": {
         name: "Kevin", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -143,7 +143,7 @@ export const managers = [
       "rival": {
         name: "Ethan", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -156,7 +156,7 @@ export const managers = [
       "rival": {
         name: "Seth", // Can be anything (usually your rival's name)
         link: null,
-        image: "/managers/question.png",
+        image: "/managers/everyone.png",
       },
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
